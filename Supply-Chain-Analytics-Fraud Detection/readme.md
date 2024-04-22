@@ -11,6 +11,11 @@ In this study, we aimed to detect fraudulent activities in the supply chain thro
 - Keras
 - Matplotlib
 - Plotly
+  
+<h2>🚀 Dataset link </h2>
+
+[https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
 
 ## 🚀Introduction 
 In recent years, the use of neural networks in supply chain analytics has gained considerable traction as organisations look for ways to improve their operations and make more informed decisions. One area where neural networks can have a significant impact is in the detection of fraud before shipments are processed. Fraudulent activities can cause significant financial losses, and early detection is essential for minimising any damage.
